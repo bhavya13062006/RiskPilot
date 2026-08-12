@@ -1,0 +1,501 @@
+loan_id,sector,region,exposure_at_default,probability_default,loss_given_default,duration_years,rate_type,risk_rating
+LN-100000,Technology,North America,368138.03,0.01701,0.5176,1.92,floating,BB
+LN-100001,Healthcare,APAC,15455776.82,0.00405,0.4638,14.04,floating,BBB
+LN-100002,Technology,North America,4453235.2,0.04892,0.4896,2.4,fixed,B
+LN-100003,Technology,APAC,2993114.66,0.01388,0.5433,1.6,floating,BB
+LN-100004,Commercial Real Estate,North America,3973586.45,0.00058,0.3529,0.89,fixed,AA
+LN-100005,Transportation,North America,423074.68,0.10597,0.5554,4.34,fixed,CCC
+LN-100006,Transportation,North America,2853749.13,0.0149,0.2852,5.63,fixed,BB
+LN-100007,Energy,APAC,1421350.83,0.01221,0.4894,3.93,fixed,BB
+LN-100008,Manufacturing,EMEA,1165814.83,0.00165,0.4714,2.79,floating,A
+LN-100009,Transportation,EMEA,5166009.91,0.00465,0.376,10.91,fixed,BBB
+LN-100010,Manufacturing,EMEA,10091478.99,0.00422,0.4473,1.75,fixed,BBB
+LN-100011,Financial Institutions,North America,14271956.13,0.04307,0.3753,3.57,floating,B
+LN-100012,Financial Institutions,North America,8421416.97,0.01495,0.3214,6.17,floating,BB
+LN-100013,Financial Institutions,APAC,1757305.8,0.04292,0.4076,1.16,floating,B
+LN-100014,Commercial Real Estate,EMEA,2922623.35,0.00456,0.3175,4.57,floating,BBB
+LN-100015,Retail & Consumer,North America,4608924.82,0.00109,0.4887,8.8,floating,A
+LN-100016,Technology,APAC,2265476.67,0.0133,0.312,2.96,fixed,BB
+LN-100017,Financial Institutions,APAC,2289492.21,0.00042,0.5354,3.35,floating,AA
+LN-100018,Energy,LATAM,4906779.83,0.03491,0.3082,1.76,floating,B
+LN-100019,Manufacturing,North America,1857587.37,0.01686,0.382,4.15,fixed,BB
+LN-100020,Energy,North America,888939.42,0.01588,0.375,1.57,fixed,BB
+LN-100021,Financial Institutions,North America,1256800.33,0.00357,0.609,2.84,fixed,BBB
+LN-100022,Transportation,North America,3982026.49,0.09295,0.4896,0.79,floating,CCC
+LN-100023,Energy,North America,1989298.5,0.02499,0.4246,0.15,floating,B
+LN-100024,Energy,APAC,2882680.0,0.01286,0.5098,2.06,floating,BB
+LN-100025,Manufacturing,North America,4143648.2,0.00204,0.1971,2.03,fixed,A
+LN-100026,Transportation,EMEA,1312802.06,0.00426,0.4448,2.2,fixed,BBB
+LN-100027,Retail & Consumer,APAC,4555623.58,0.00055,0.6897,4.9,fixed,AA
+LN-100028,Manufacturing,EMEA,3007822.23,0.0016,0.4659,5.74,fixed,A
+LN-100029,Manufacturing,APAC,509765.25,0.01072,0.4581,3.68,floating,BB
+LN-100030,Technology,EMEA,9689324.5,0.01338,0.5158,4.67,floating,BB
+LN-100031,Energy,North America,51514398.08,0.12179,0.5575,1.61,floating,CCC
+LN-100032,Energy,EMEA,321063.8,0.00395,0.2103,1.3,floating,BBB
+LN-100033,Financial Institutions,North America,628098.27,0.00447,0.2481,4.21,floating,BBB
+LN-100034,Retail & Consumer,LATAM,644899.86,0.00421,0.4752,1.14,fixed,BBB
+LN-100035,Manufacturing,North America,2099879.77,0.00165,0.3642,1.03,fixed,A
+LN-100036,Healthcare,EMEA,1467050.45,0.00135,0.6074,14.6,fixed,A
+LN-100037,Healthcare,EMEA,1368854.53,0.20166,0.4122,3.11,fixed,CCC
+LN-100038,Energy,APAC,3920274.21,0.00187,0.2179,2.03,fixed,A
+LN-100039,Commercial Real Estate,APAC,2881619.15,0.01196,0.2978,1.85,fixed,BB
+LN-100040,Commercial Real Estate,North America,2807072.43,0.00347,0.12,0.81,floating,BBB
+LN-100041,Financial Institutions,APAC,3112109.35,0.05402,0.4219,3.62,fixed,B
+LN-100042,Healthcare,North America,3904921.09,0.0136,0.4274,2.36,floating,BB
+LN-100043,Financial Institutions,North America,195096.84,0.00484,0.3991,5.63,floating,BBB
+LN-100044,Healthcare,North America,1327911.44,0.04201,0.5795,4.3,floating,B
+LN-100045,Retail & Consumer,APAC,180190.32,0.05482,0.5938,2.3,floating,B
+LN-100046,Technology,EMEA,2062987.88,0.00408,0.4296,0.41,fixed,BBB
+LN-100047,Energy,North America,30343594.84,0.00415,0.1938,3.11,floating,BBB
+LN-100048,Retail & Consumer,EMEA,6262471.68,0.01729,0.5241,2.91,fixed,BB
+LN-100049,Transportation,APAC,7322027.53,0.00142,0.5166,0.32,floating,A
+LN-100050,Transportation,North America,2478223.56,0.00129,0.4871,3.97,fixed,A
+LN-100051,Financial Institutions,APAC,1143498.31,0.00019,0.5678,1.11,fixed,AAA
+LN-100052,Transportation,EMEA,3380983.58,0.01495,0.3102,5.83,floating,BB
+LN-100053,Retail & Consumer,APAC,1109356.42,0.01071,0.6911,2.78,floating,BB
+LN-100054,Commercial Real Estate,LATAM,1979724.17,0.01534,0.3349,1.81,fixed,BB
+LN-100055,Retail & Consumer,APAC,5866389.63,0.01287,0.5399,3.43,floating,BB
+LN-100056,Healthcare,North America,1073517.85,0.00469,0.2475,3.28,fixed,BBB
+LN-100057,Financial Institutions,APAC,4810186.93,0.00897,0.3384,3.2,floating,BB
+LN-100058,Retail & Consumer,North America,4177157.32,0.00132,0.632,5.32,fixed,A
+LN-100059,Manufacturing,North America,693654.31,0.00112,0.4187,3.58,fixed,A
+LN-100060,Retail & Consumer,North America,5787919.98,0.01226,0.5508,1.68,fixed,BB
+LN-100061,Financial Institutions,APAC,4275548.6,0.00415,0.4784,2.42,fixed,BBB
+LN-100062,Commercial Real Estate,APAC,2218004.5,0.01362,0.4374,7.21,fixed,BB
+LN-100063,Manufacturing,APAC,857215.13,0.01347,0.6137,1.56,fixed,BB
+LN-100064,Energy,LATAM,770560.44,0.01367,0.4216,3.92,fixed,BB
+LN-100065,Financial Institutions,North America,1097528.25,0.01443,0.2363,5.45,fixed,BB
+LN-100066,Retail & Consumer,APAC,3601474.52,0.01188,0.3536,4.19,fixed,BB
+LN-100067,Energy,LATAM,52789541.61,0.00442,0.5161,3.13,fixed,BBB
+LN-100068,Manufacturing,APAC,3208337.58,0.00066,0.4975,3.48,floating,AA
+LN-100069,Commercial Real Estate,North America,505887.16,0.00423,0.262,4.37,floating,BBB
+LN-100070,Retail & Consumer,EMEA,1584096.16,0.00163,0.3631,1.54,fixed,A
+LN-100071,Transportation,LATAM,2236924.59,0.00418,0.3802,2.93,floating,BBB
+LN-100072,Technology,EMEA,29198945.67,0.05874,0.4061,10.87,fixed,B
+LN-100073,Financial Institutions,North America,435806.13,0.00148,0.2849,4.01,fixed,A
+LN-100074,Healthcare,LATAM,10011210.0,0.00057,0.3746,3.21,floating,AA
+LN-100075,Transportation,APAC,2338047.31,0.00355,0.3626,2.23,floating,BBB
+LN-100076,Manufacturing,LATAM,3116711.85,0.00338,0.5426,1.56,floating,BBB
+LN-100077,Transportation,EMEA,2258435.12,0.01139,0.5471,3.56,fixed,BB
+LN-100078,Energy,LATAM,3233900.33,0.01213,0.4325,3.74,floating,BB
+LN-100079,Retail & Consumer,APAC,1674368.08,0.01385,0.403,2.78,fixed,BB
+LN-100080,Healthcare,APAC,9815322.07,0.0147,0.4668,13.65,fixed,BB
+LN-100081,Manufacturing,EMEA,1200059.55,0.00403,0.352,1.67,fixed,BBB
+LN-100082,Manufacturing,North America,6889148.35,0.03983,0.3124,1.36,floating,B
+LN-100083,Energy,North America,975978.82,0.0017,0.3372,2.26,fixed,A
+LN-100084,Commercial Real Estate,LATAM,1855608.01,0.00022,0.3738,2.85,floating,AAA
+LN-100085,Technology,North America,609772.49,0.00059,0.3104,1.49,floating,AA
+LN-100086,Transportation,APAC,3270737.63,0.01263,0.4694,3.5,floating,BB
+LN-100087,Energy,North America,9719439.91,0.00433,0.5376,3.77,floating,BBB
+LN-100088,Retail & Consumer,APAC,1821021.57,0.00154,0.2595,4.73,floating,A
+LN-100089,Transportation,APAC,1596661.96,0.00313,0.453,1.99,fixed,BBB
+LN-100090,Energy,APAC,35878187.81,0.00148,0.4236,6.83,fixed,A
+LN-100091,Commercial Real Estate,EMEA,1540747.25,0.01455,0.491,4.51,floating,BB
+LN-100092,Technology,EMEA,343838.14,0.00346,0.4484,1.65,fixed,BBB
+LN-100093,Energy,North America,726384.1,0.00411,0.2756,1.49,fixed,BBB
+LN-100094,Energy,North America,2544550.7,0.00313,0.2985,2.38,fixed,BBB
+LN-100095,Energy,EMEA,8460463.5,0.01681,0.4535,3.78,fixed,BB
+LN-100096,Technology,EMEA,43581004.96,0.00475,0.5735,4.17,fixed,BBB
+LN-100097,Energy,EMEA,1040026.14,0.00058,0.1843,4.51,fixed,AA
+LN-100098,Manufacturing,North America,9614954.19,0.00158,0.4915,10.44,floating,A
+LN-100099,Energy,EMEA,2592485.77,0.07662,0.5928,0.57,fixed,CCC
+LN-100100,Manufacturing,North America,1678863.42,0.03719,0.4316,2.73,floating,B
+LN-100101,Healthcare,North America,3191028.69,0.01338,0.516,9.89,floating,BB
+LN-100102,Retail & Consumer,EMEA,2122506.23,0.00336,0.3656,4.87,fixed,BBB
+LN-100103,Manufacturing,North America,2238765.82,0.13286,0.4357,1.29,floating,CCC
+LN-100104,Technology,North America,1265317.35,0.01819,0.2555,3.38,floating,BB
+LN-100105,Technology,APAC,425950.91,0.01153,0.1687,2.61,floating,BB
+LN-100106,Commercial Real Estate,North America,362947.07,0.0035,0.5631,2.54,fixed,BBB
+LN-100107,Transportation,North America,4067623.06,0.00414,0.3318,1.96,fixed,BBB
+LN-100108,Transportation,EMEA,1462459.11,0.00075,0.3953,3.19,fixed,AA
+LN-100109,Technology,North America,1029210.14,0.03675,0.2836,6.03,floating,B
+LN-100110,Technology,APAC,2001397.39,0.00415,0.2808,2.1,floating,BBB
+LN-100111,Healthcare,EMEA,4753660.35,0.00191,0.4291,4.53,floating,A
+LN-100112,Retail & Consumer,APAC,2417876.75,0.00301,0.3625,5.07,floating,BBB
+LN-100113,Manufacturing,LATAM,963511.37,0.01131,0.4954,6.79,floating,BB
+LN-100114,Manufacturing,APAC,7640107.65,0.0014,0.5043,1.46,floating,A
+LN-100115,Energy,North America,11263793.82,0.04149,0.4885,3.01,fixed,B
+LN-100116,Financial Institutions,North America,3416107.56,0.01571,0.4786,1.78,floating,BB
+LN-100117,Manufacturing,EMEA,5786451.89,0.01451,0.6393,3.19,fixed,BB
+LN-100118,Manufacturing,APAC,7772916.43,0.00294,0.3219,3.18,fixed,BBB
+LN-100119,Transportation,LATAM,6872986.24,0.01508,0.4434,1.17,fixed,BB
+LN-100120,Technology,North America,3896187.6,0.01279,0.5859,3.33,floating,BB
+LN-100121,Technology,North America,3829258.55,0.01668,0.6017,10.77,fixed,BB
+LN-100122,Energy,North America,3511755.56,0.00054,0.2794,4.18,fixed,AA
+LN-100123,Manufacturing,APAC,592987.48,0.00362,0.4125,0.96,fixed,BBB
+LN-100124,Healthcare,North America,4285704.35,0.00065,0.613,1.39,fixed,AA
+LN-100125,Retail & Consumer,APAC,446236.62,0.00446,0.511,2.9,fixed,BBB
+LN-100126,Energy,APAC,827314.84,0.00427,0.4734,1.42,floating,BBB
+LN-100127,Financial Institutions,North America,8317909.96,0.00112,0.4239,6.56,floating,A
+LN-100128,Retail & Consumer,North America,4996469.79,0.00162,0.4039,0.86,fixed,A
+LN-100129,Healthcare,APAC,17544211.48,0.01183,0.4846,12.71,floating,BB
+LN-100130,Manufacturing,APAC,1470566.38,0.26692,0.4197,0.69,fixed,CCC
+LN-100131,Technology,APAC,558229.96,0.03539,0.4449,2.87,fixed,B
+LN-100132,Financial Institutions,APAC,1521974.53,0.01494,0.4594,1.25,floating,BB
+LN-100133,Transportation,North America,2218261.7,0.00352,0.3686,4.72,floating,BBB
+LN-100134,Energy,APAC,2162742.37,0.01131,0.5139,5.86,floating,BB
+LN-100135,Healthcare,EMEA,6900114.24,0.00022,0.7997,3.77,fixed,AAA
+LN-100136,Transportation,APAC,1332546.77,0.12435,0.2368,6.04,floating,CCC
+LN-100137,Healthcare,APAC,2920419.76,0.00363,0.4889,0.22,fixed,BBB
+LN-100138,Energy,EMEA,668311.82,0.01705,0.3588,3.3,fixed,BB
+LN-100139,Energy,APAC,3253848.49,0.00056,0.5193,4.16,floating,AA
+LN-100140,Energy,North America,1989550.73,0.00402,0.4556,4.52,floating,BBB
+LN-100141,Commercial Real Estate,LATAM,869092.92,0.00416,0.5414,3.99,floating,BBB
+LN-100142,Financial Institutions,LATAM,1529708.42,0.04082,0.5911,4.59,floating,B
+LN-100143,Transportation,EMEA,1619141.58,0.01499,0.4731,3.27,floating,BB
+LN-100144,Technology,APAC,1473026.02,0.00368,0.5858,0.97,floating,BBB
+LN-100145,Technology,North America,13914964.01,0.00375,0.1687,1.94,fixed,BBB
+LN-100146,Financial Institutions,LATAM,1779262.3,0.00482,0.6409,6.58,fixed,BBB
+LN-100147,Retail & Consumer,LATAM,1516194.72,0.00338,0.495,6.11,fixed,BBB
+LN-100148,Retail & Consumer,APAC,197363.79,0.00255,0.5793,4.11,fixed,BBB
+LN-100149,Technology,North America,741456.6,0.00025,0.3036,4.79,fixed,AAA
+LN-100150,Manufacturing,APAC,1484545.52,0.06221,0.3503,5.65,fixed,B
+LN-100151,Commercial Real Estate,APAC,932441.84,0.04226,0.4675,4.07,floating,B
+LN-100152,Technology,EMEA,9064519.12,0.00106,0.448,6.46,floating,A
+LN-100153,Financial Institutions,APAC,1653770.59,0.01335,0.484,6.33,floating,BB
+LN-100154,Commercial Real Estate,APAC,8180703.23,0.00144,0.5801,12.88,fixed,A
+LN-100155,Energy,APAC,2122011.67,0.0136,0.2382,2.01,floating,BB
+LN-100156,Manufacturing,North America,2065639.91,0.00333,0.5669,2.04,fixed,BBB
+LN-100157,Financial Institutions,APAC,1798248.88,0.01522,0.451,3.87,fixed,BB
+LN-100158,Technology,North America,1991056.33,0.0151,0.4255,9.53,fixed,BB
+LN-100159,Technology,APAC,13133470.15,0.01086,0.2735,6.79,fixed,BB
+LN-100160,Healthcare,LATAM,154574.0,0.00166,0.5104,5.18,fixed,A
+LN-100161,Manufacturing,APAC,219322.75,0.05886,0.1603,7.09,floating,B
+LN-100162,Healthcare,North America,1090898.35,0.00154,0.5278,4.21,floating,A
+LN-100163,Commercial Real Estate,APAC,2014699.62,0.00057,0.2709,2.4,floating,AA
+LN-100164,Commercial Real Estate,APAC,4235935.96,0.0137,0.4564,11.02,fixed,BB
+LN-100165,Financial Institutions,APAC,3336376.57,0.00437,0.4357,4.0,floating,BBB
+LN-100166,Healthcare,APAC,1299291.27,0.03332,0.5903,6.24,floating,B
+LN-100167,Energy,APAC,6082632.05,0.04611,0.4286,0.22,fixed,B
+LN-100168,Energy,North America,42033266.6,0.00377,0.3667,0.29,floating,BBB
+LN-100169,Commercial Real Estate,EMEA,2427721.24,0.15326,0.3892,3.37,fixed,CCC
+LN-100170,Healthcare,APAC,5716820.37,0.0039,0.6027,1.42,fixed,BBB
+LN-100171,Financial Institutions,North America,2676203.62,0.005,0.5144,3.59,fixed,BBB
+LN-100172,Manufacturing,North America,1069143.77,0.00334,0.4037,2.04,fixed,BBB
+LN-100173,Manufacturing,APAC,4272025.05,0.04896,0.4216,14.04,fixed,B
+LN-100174,Energy,North America,2239301.25,0.00157,0.2619,5.92,fixed,A
+LN-100175,Retail & Consumer,APAC,1985683.67,0.00052,0.4966,7.53,fixed,AA
+LN-100176,Manufacturing,APAC,10021555.98,0.00411,0.2388,0.37,floating,BBB
+LN-100177,Energy,North America,133791.87,0.14183,0.5402,5.14,fixed,CCC
+LN-100178,Retail & Consumer,LATAM,416877.38,0.04281,0.4654,2.62,fixed,B
+LN-100179,Financial Institutions,LATAM,537252.0,0.01045,0.7364,7.62,fixed,BB
+LN-100180,Financial Institutions,LATAM,1329632.69,0.04488,0.318,4.65,floating,B
+LN-100181,Manufacturing,North America,1498433.84,0.03891,0.4377,2.91,floating,B
+LN-100182,Transportation,APAC,377732.59,0.00379,0.6658,1.07,floating,BBB
+LN-100183,Energy,APAC,670866.99,0.00395,0.593,3.33,fixed,BBB
+LN-100184,Transportation,APAC,769175.28,0.01042,0.3665,6.49,fixed,BB
+LN-100185,Manufacturing,APAC,29596495.03,0.01061,0.4769,7.9,floating,BB
+LN-100186,Technology,APAC,14388159.11,0.00429,0.4502,2.28,fixed,BBB
+LN-100187,Energy,North America,1260571.37,0.00055,0.4838,12.64,floating,AA
+LN-100188,Financial Institutions,APAC,1329160.88,0.00861,0.3662,6.16,floating,BB
+LN-100189,Manufacturing,APAC,560102.79,0.00447,0.4393,1.44,fixed,BBB
+LN-100190,Financial Institutions,EMEA,243058.28,0.04684,0.2582,1.17,floating,B
+LN-100191,Commercial Real Estate,North America,1743546.46,0.27665,0.4662,2.74,floating,CCC
+LN-100192,Technology,EMEA,661564.54,0.0012,0.504,2.28,fixed,A
+LN-100193,Energy,APAC,1806071.16,0.05064,0.4227,4.23,fixed,B
+LN-100194,Transportation,North America,341046.31,0.00158,0.2562,3.08,fixed,A
+LN-100195,Retail & Consumer,APAC,857544.28,0.00204,0.5686,2.43,floating,A
+LN-100196,Healthcare,North America,2334923.78,0.01488,0.4937,0.73,fixed,BB
+LN-100197,Transportation,APAC,2966313.69,0.04762,0.3629,4.75,fixed,B
+LN-100198,Technology,APAC,3138385.82,0.00146,0.4163,0.67,floating,A
+LN-100199,Commercial Real Estate,North America,463917.55,0.00449,0.2699,6.18,fixed,BBB
+LN-100200,Energy,APAC,5076610.15,0.01531,0.327,0.42,fixed,BB
+LN-100201,Energy,APAC,822223.17,0.14253,0.3855,0.63,floating,CCC
+LN-100202,Transportation,LATAM,3977419.13,0.00369,0.5974,1.44,fixed,BBB
+LN-100203,Transportation,APAC,1959691.18,0.0014,0.3733,2.12,fixed,A
+LN-100204,Retail & Consumer,North America,436251.31,0.00019,0.5268,1.79,fixed,AAA
+LN-100205,Transportation,North America,1400279.65,0.00168,0.3854,2.11,fixed,A
+LN-100206,Energy,APAC,2963554.99,0.00184,0.4798,3.64,fixed,A
+LN-100207,Healthcare,North America,3891331.4,0.01304,0.433,1.47,floating,BB
+LN-100208,Retail & Consumer,APAC,1697917.93,0.0014,0.5548,3.67,floating,A
+LN-100209,Energy,EMEA,10691469.94,0.00419,0.3858,0.22,fixed,BBB
+LN-100210,Manufacturing,APAC,6005953.88,0.01348,0.2613,1.42,floating,BB
+LN-100211,Retail & Consumer,APAC,1495065.34,0.016,0.2842,0.6,floating,BB
+LN-100212,Manufacturing,APAC,4525026.51,0.00099,0.3862,6.13,floating,A
+LN-100213,Energy,LATAM,16637551.44,0.03942,0.3001,1.64,floating,B
+LN-100214,Manufacturing,EMEA,17133275.41,0.01236,0.4992,4.55,floating,BB
+LN-100215,Energy,LATAM,513600.05,0.00913,0.3941,0.49,floating,BB
+LN-100216,Transportation,EMEA,715554.88,0.00128,0.735,7.82,fixed,A
+LN-100217,Retail & Consumer,EMEA,10154328.9,0.00129,0.2415,3.21,fixed,A
+LN-100218,Commercial Real Estate,North America,619018.75,0.04364,0.4744,2.95,fixed,B
+LN-100219,Technology,LATAM,462871.5,0.00467,0.3146,0.74,fixed,BBB
+LN-100220,Transportation,North America,1161457.75,0.00385,0.3908,1.27,floating,BBB
+LN-100221,Manufacturing,North America,3147910.26,0.00338,0.467,2.49,fixed,BBB
+LN-100222,Financial Institutions,North America,1771546.8,0.01388,0.171,1.31,fixed,BB
+LN-100223,Technology,North America,969349.03,0.13889,0.4784,5.73,fixed,CCC
+LN-100224,Healthcare,APAC,944457.81,0.00341,0.6783,3.14,fixed,BBB
+LN-100225,Manufacturing,North America,36006275.52,0.03885,0.3956,9.35,floating,B
+LN-100226,Commercial Real Estate,APAC,753541.53,0.00022,0.4812,5.16,floating,AAA
+LN-100227,Manufacturing,EMEA,24392741.46,0.01353,0.573,2.24,fixed,BB
+LN-100228,Transportation,North America,2750414.48,0.01536,0.4303,5.0,fixed,BB
+LN-100229,Financial Institutions,EMEA,5258913.27,0.0015,0.3803,1.96,fixed,A
+LN-100230,Financial Institutions,North America,1157779.82,0.00166,0.1769,4.33,fixed,A
+LN-100231,Transportation,EMEA,1615972.75,0.00338,0.5269,2.18,floating,BBB
+LN-100232,Manufacturing,APAC,904457.52,0.11978,0.4364,5.74,floating,CCC
+LN-100233,Manufacturing,LATAM,107271.77,0.01356,0.3285,0.5,fixed,BB
+LN-100234,Transportation,North America,435473.75,0.03679,0.4652,0.99,fixed,B
+LN-100235,Technology,APAC,270579.02,0.03445,0.38,2.66,floating,B
+LN-100236,Manufacturing,APAC,166914.64,0.00441,0.3866,1.7,floating,BBB
+LN-100237,Manufacturing,APAC,532375.92,0.01326,0.5228,2.12,fixed,BB
+LN-100238,Transportation,North America,8515948.41,0.00017,0.2894,4.68,fixed,AAA
+LN-100239,Commercial Real Estate,EMEA,1888172.93,0.20118,0.5757,2.09,fixed,CCC
+LN-100240,Commercial Real Estate,LATAM,8199798.5,0.05261,0.2823,3.76,floating,B
+LN-100241,Healthcare,EMEA,3116062.78,0.00921,0.3705,1.41,fixed,BB
+LN-100242,Commercial Real Estate,North America,4689397.69,0.00116,0.6808,0.38,fixed,A
+LN-100243,Energy,North America,736020.54,0.00345,0.5853,4.98,floating,BBB
+LN-100244,Transportation,EMEA,3528368.18,0.01707,0.4617,8.98,floating,BB
+LN-100245,Retail & Consumer,EMEA,4419714.49,0.04691,0.3371,3.49,fixed,B
+LN-100246,Healthcare,APAC,1051457.63,0.01561,0.3865,2.77,fixed,BB
+LN-100247,Retail & Consumer,LATAM,3669237.41,0.00332,0.4588,3.23,fixed,BBB
+LN-100248,Commercial Real Estate,North America,3696165.67,0.00333,0.4545,7.12,floating,BBB
+LN-100249,Energy,EMEA,54145367.69,0.00427,0.4391,3.52,fixed,BBB
+LN-100250,Financial Institutions,LATAM,576629.21,0.01412,0.4463,5.15,floating,BB
+LN-100251,Commercial Real Estate,EMEA,538993.52,0.0487,0.4243,4.99,floating,B
+LN-100252,Technology,APAC,2180699.15,0.00389,0.277,6.06,fixed,BBB
+LN-100253,Manufacturing,North America,2841125.56,0.00156,0.388,2.73,floating,A
+LN-100254,Manufacturing,APAC,829204.09,0.00154,0.5598,1.94,fixed,A
+LN-100255,Transportation,EMEA,2041598.99,0.01563,0.2858,4.37,fixed,BB
+LN-100256,Technology,APAC,3713891.25,0.05045,0.4273,5.78,floating,B
+LN-100257,Technology,EMEA,3913762.66,0.00114,0.3516,6.52,fixed,A
+LN-100258,Manufacturing,LATAM,10930505.76,0.0004,0.4634,7.7,fixed,AA
+LN-100259,Retail & Consumer,APAC,8078194.2,0.0161,0.4034,5.43,fixed,BB
+LN-100260,Healthcare,North America,659066.31,0.00177,0.6273,1.86,fixed,A
+LN-100261,Commercial Real Estate,North America,12634539.23,0.03811,0.5108,3.48,fixed,B
+LN-100262,Energy,North America,1105629.98,0.00288,0.2926,3.27,floating,BBB
+LN-100263,Technology,APAC,6257930.48,0.00152,0.5305,3.01,floating,A
+LN-100264,Technology,APAC,2136725.96,0.05128,0.357,4.37,floating,B
+LN-100265,Commercial Real Estate,North America,1260016.89,0.0019,0.3808,2.54,floating,A
+LN-100266,Financial Institutions,North America,271450.06,0.00431,0.4877,2.54,fixed,BBB
+LN-100267,Technology,North America,1641759.41,0.00142,0.391,9.33,floating,A
+LN-100268,Energy,APAC,356710.01,0.0013,0.5571,2.84,fixed,A
+LN-100269,Financial Institutions,North America,5746084.13,0.0002,0.3571,6.03,fixed,AAA
+LN-100270,Transportation,North America,10516667.35,0.00057,0.3757,6.27,floating,AA
+LN-100271,Retail & Consumer,APAC,825213.91,0.00127,0.3712,3.55,fixed,A
+LN-100272,Manufacturing,EMEA,2763940.17,0.00078,0.3821,2.62,fixed,AA
+LN-100273,Manufacturing,APAC,892756.66,0.01775,0.5819,1.46,fixed,BB
+LN-100274,Technology,North America,993179.6,0.01639,0.5255,0.66,fixed,BB
+LN-100275,Commercial Real Estate,LATAM,4647984.18,0.00345,0.6552,4.59,fixed,BBB
+LN-100276,Retail & Consumer,North America,1900462.65,0.00451,0.7221,3.97,fixed,BBB
+LN-100277,Commercial Real Estate,North America,13438211.97,0.00438,0.3263,5.06,floating,BBB
+LN-100278,Commercial Real Estate,APAC,1166530.22,0.04799,0.4585,2.04,fixed,B
+LN-100279,Retail & Consumer,APAC,5952191.12,0.05344,0.3089,9.94,fixed,B
+LN-100280,Healthcare,APAC,38493006.2,0.00066,0.3567,9.35,floating,AA
+LN-100281,Transportation,EMEA,4758084.89,0.00167,0.3744,2.76,floating,A
+LN-100282,Commercial Real Estate,EMEA,1212417.16,0.00164,0.3231,0.35,fixed,A
+LN-100283,Energy,APAC,1877563.12,0.00158,0.3238,2.23,fixed,A
+LN-100284,Retail & Consumer,APAC,1746197.69,0.01025,0.4327,5.22,fixed,BB
+LN-100285,Technology,APAC,790433.79,0.00405,0.304,7.57,floating,BBB
+LN-100286,Transportation,North America,4107354.43,0.00055,0.5511,3.09,floating,AA
+LN-100287,Healthcare,North America,4054240.41,0.00323,0.3399,8.38,floating,BBB
+LN-100288,Technology,EMEA,3809125.39,0.00501,0.7871,1.37,floating,BBB
+LN-100289,Commercial Real Estate,LATAM,10752643.82,0.00189,0.3958,4.05,fixed,A
+LN-100290,Commercial Real Estate,APAC,9764650.02,0.05417,0.4586,4.13,fixed,B
+LN-100291,Energy,EMEA,1312653.0,0.31797,0.2946,4.62,fixed,CCC
+LN-100292,Healthcare,North America,2988725.35,0.05412,0.6547,3.4,fixed,B
+LN-100293,Manufacturing,APAC,998529.77,0.0006,0.5843,3.9,fixed,AA
+LN-100294,Energy,LATAM,2034358.0,0.04637,0.4856,1.34,fixed,B
+LN-100295,Healthcare,APAC,1025074.25,0.03762,0.2884,7.1,fixed,B
+LN-100296,Financial Institutions,EMEA,11781927.41,0.12715,0.4753,5.64,floating,CCC
+LN-100297,Retail & Consumer,EMEA,2958130.28,0.04541,0.3154,3.79,fixed,B
+LN-100298,Transportation,LATAM,1559955.67,0.01126,0.6255,5.73,floating,BB
+LN-100299,Healthcare,North America,7370384.47,0.01389,0.5471,7.25,floating,BB
+LN-100300,Healthcare,APAC,182102.15,0.01383,0.4615,4.57,fixed,BB
+LN-100301,Financial Institutions,EMEA,216314.18,0.0019,0.1576,10.63,fixed,A
+LN-100302,Energy,EMEA,4758402.31,0.00454,0.332,4.83,floating,BBB
+LN-100303,Financial Institutions,North America,2119128.11,0.00401,0.5325,1.53,floating,BBB
+LN-100304,Energy,EMEA,40814207.44,0.04668,0.5955,3.66,fixed,B
+LN-100305,Transportation,APAC,460912.86,0.00403,0.5831,5.88,fixed,BBB
+LN-100306,Technology,North America,1932727.78,0.00388,0.259,7.26,floating,BBB
+LN-100307,Financial Institutions,EMEA,17963641.41,0.01173,0.4862,3.46,floating,BB
+LN-100308,Transportation,APAC,4909190.32,0.00391,0.5719,1.42,fixed,BBB
+LN-100309,Financial Institutions,North America,2389697.15,0.00133,0.251,2.58,fixed,A
+LN-100310,Energy,LATAM,57390286.04,0.00325,0.4491,0.92,floating,BBB
+LN-100311,Financial Institutions,EMEA,1284615.31,0.00431,0.4829,5.17,fixed,BBB
+LN-100312,Retail & Consumer,EMEA,190590.48,0.00159,0.4139,2.21,floating,A
+LN-100313,Healthcare,North America,2632394.54,0.00293,0.2277,1.73,fixed,BBB
+LN-100314,Retail & Consumer,LATAM,5025479.45,0.00393,0.4109,5.52,fixed,BBB
+LN-100315,Financial Institutions,APAC,350395.83,0.0046,0.4107,8.27,fixed,BBB
+LN-100316,Financial Institutions,North America,957845.16,0.00464,0.4322,1.73,fixed,BBB
+LN-100317,Transportation,North America,555036.36,0.01615,0.3824,3.47,floating,BB
+LN-100318,Technology,EMEA,685643.91,0.00402,0.3968,2.66,fixed,BBB
+LN-100319,Retail & Consumer,LATAM,2102903.97,0.0393,0.4452,7.48,floating,B
+LN-100320,Energy,EMEA,200217.11,0.03769,0.5031,2.89,fixed,B
+LN-100321,Healthcare,North America,3896921.66,0.00421,0.4135,1.31,floating,BBB
+LN-100322,Energy,North America,52969557.84,0.00423,0.4008,3.0,floating,BBB
+LN-100323,Technology,North America,1504223.16,0.00477,0.4611,6.48,floating,BBB
+LN-100324,Healthcare,North America,129472.09,0.05242,0.2195,2.54,fixed,B
+LN-100325,Financial Institutions,APAC,662608.44,0.01372,0.5072,1.88,floating,BB
+LN-100326,Energy,North America,7695852.67,0.0366,0.4499,2.8,fixed,B
+LN-100327,Retail & Consumer,EMEA,93358.88,0.00381,0.4548,1.35,floating,BBB
+LN-100328,Healthcare,EMEA,1352850.28,0.01446,0.5653,2.66,fixed,BB
+LN-100329,Financial Institutions,EMEA,541446.28,0.00388,0.2157,2.0,fixed,BBB
+LN-100330,Financial Institutions,North America,4804326.06,0.01279,0.2131,11.86,fixed,BB
+LN-100331,Financial Institutions,North America,943521.71,0.00156,0.4829,0.46,floating,A
+LN-100332,Financial Institutions,APAC,3092064.11,0.01294,0.4491,1.52,floating,BB
+LN-100333,Transportation,North America,3693209.65,0.04076,0.4704,1.88,fixed,B
+LN-100334,Technology,North America,14944418.2,0.00157,0.3945,1.35,floating,A
+LN-100335,Energy,APAC,1586060.56,0.01316,0.5297,4.08,floating,BB
+LN-100336,Technology,APAC,2998578.22,0.00062,0.5619,1.7,fixed,AA
+LN-100337,Healthcare,EMEA,387100.25,0.01457,0.5081,0.83,fixed,BB
+LN-100338,Commercial Real Estate,North America,7344445.86,0.0005,0.4187,3.25,floating,AA
+LN-100339,Financial Institutions,North America,858927.9,0.04175,0.1971,2.43,floating,B
+LN-100340,Energy,APAC,51921580.05,0.00182,0.5423,1.77,fixed,A
+LN-100341,Transportation,North America,1934824.97,0.09908,0.5966,7.35,floating,CCC
+LN-100342,Energy,North America,355338.89,0.03071,0.5273,4.18,fixed,B
+LN-100343,Transportation,North America,2550109.94,0.01009,0.3444,3.86,floating,BB
+LN-100344,Retail & Consumer,North America,5747140.01,0.01406,0.5309,4.24,floating,BB
+LN-100345,Technology,APAC,2736601.02,0.01406,0.5533,4.09,floating,BB
+LN-100346,Healthcare,LATAM,345315.12,0.04421,0.6371,2.53,fixed,B
+LN-100347,Technology,APAC,1730307.64,0.00473,0.3449,1.72,fixed,BBB
+LN-100348,Transportation,North America,4484922.59,0.00839,0.4228,3.31,fixed,BB
+LN-100349,Energy,APAC,251252.17,0.00064,0.5397,2.49,fixed,AA
+LN-100350,Healthcare,North America,607894.96,0.01728,0.4569,0.45,floating,BB
+LN-100351,Transportation,APAC,5200149.66,0.00125,0.3159,1.25,fixed,A
+LN-100352,Energy,EMEA,2668707.89,0.0132,0.4998,2.26,fixed,BB
+LN-100353,Manufacturing,North America,3119454.61,0.01242,0.5194,5.6,fixed,BB
+LN-100354,Retail & Consumer,North America,15331870.95,0.00346,0.4606,3.32,fixed,BBB
+LN-100355,Healthcare,APAC,3319776.62,0.0038,0.4764,1.47,fixed,BBB
+LN-100356,Transportation,APAC,4088451.34,0.017,0.419,1.16,floating,BB
+LN-100357,Financial Institutions,North America,39107314.53,0.01786,0.6274,6.4,floating,BB
+LN-100358,Financial Institutions,North America,1567221.69,0.0038,0.3419,2.62,fixed,BBB
+LN-100359,Retail & Consumer,North America,824332.26,0.018,0.3795,0.1,floating,BB
+LN-100360,Healthcare,LATAM,3174231.26,0.04524,0.4513,2.75,floating,B
+LN-100361,Energy,EMEA,3213560.7,0.00189,0.5555,4.81,fixed,A
+LN-100362,Retail & Consumer,LATAM,1110824.48,0.00148,0.2703,1.12,floating,A
+LN-100363,Energy,APAC,636897.03,0.00061,0.2928,3.14,fixed,AA
+LN-100364,Commercial Real Estate,EMEA,25161581.97,0.01477,0.2055,3.35,fixed,BB
+LN-100365,Financial Institutions,North America,2840605.57,0.00591,0.4539,1.19,fixed,BBB
+LN-100366,Financial Institutions,North America,886012.27,0.01579,0.3158,6.79,fixed,BB
+LN-100367,Technology,LATAM,5430399.88,0.01251,0.4039,3.4,floating,BB
+LN-100368,Commercial Real Estate,EMEA,1758444.79,0.00458,0.5294,2.25,floating,BBB
+LN-100369,Commercial Real Estate,EMEA,1501282.66,0.04256,0.373,2.63,floating,B
+LN-100370,Commercial Real Estate,EMEA,3680282.82,0.01297,0.4778,0.99,floating,BB
+LN-100371,Healthcare,APAC,478747.93,0.00455,0.4141,0.95,floating,BBB
+LN-100372,Energy,EMEA,2922324.51,0.00402,0.5307,2.09,floating,BBB
+LN-100373,Manufacturing,North America,16260514.25,0.00417,0.507,2.19,fixed,BBB
+LN-100374,Financial Institutions,LATAM,3311114.6,0.0015,0.367,2.5,fixed,A
+LN-100375,Transportation,EMEA,1310824.24,0.00158,0.4298,7.18,floating,A
+LN-100376,Financial Institutions,APAC,1135046.52,0.04787,0.5752,4.64,fixed,B
+LN-100377,Manufacturing,APAC,1262527.26,0.00284,0.4972,0.54,fixed,BBB
+LN-100378,Technology,APAC,1499498.17,0.0044,0.2824,6.31,fixed,BBB
+LN-100379,Energy,North America,1308527.23,0.01194,0.5287,2.07,floating,BB
+LN-100380,Financial Institutions,APAC,5432677.07,0.01097,0.3198,4.94,fixed,BB
+LN-100381,Commercial Real Estate,EMEA,294628.34,0.04461,0.6195,2.21,fixed,B
+LN-100382,Healthcare,North America,5117620.05,0.01418,0.5729,3.24,fixed,BB
+LN-100383,Technology,EMEA,1305824.01,0.00358,0.4848,1.06,fixed,BBB
+LN-100384,Financial Institutions,APAC,26851405.4,0.0045,0.4689,12.31,floating,BBB
+LN-100385,Retail & Consumer,North America,573959.03,0.09584,0.4249,5.33,fixed,CCC
+LN-100386,Energy,APAC,8550447.46,0.01315,0.5314,0.66,floating,BB
+LN-100387,Financial Institutions,EMEA,7804401.72,0.10947,0.4055,5.38,floating,CCC
+LN-100388,Healthcare,APAC,5697565.74,0.00149,0.4783,1.71,fixed,A
+LN-100389,Retail & Consumer,APAC,374658.32,0.04688,0.5546,8.69,floating,B
+LN-100390,Manufacturing,APAC,4935838.76,0.01188,0.3826,5.01,floating,BB
+LN-100391,Manufacturing,EMEA,3095130.4,0.00166,0.3761,4.43,floating,A
+LN-100392,Retail & Consumer,APAC,339151.31,0.01413,0.3067,2.64,fixed,BB
+LN-100393,Manufacturing,North America,1930467.73,0.01003,0.3223,13.24,fixed,BB
+LN-100394,Manufacturing,EMEA,2960852.93,0.00014,0.2306,2.08,floating,AAA
+LN-100395,Manufacturing,EMEA,3655278.34,0.00399,0.5376,1.28,floating,BBB
+LN-100396,Commercial Real Estate,APAC,2409639.0,0.04351,0.6671,1.76,floating,B
+LN-100397,Transportation,APAC,2731481.13,0.00394,0.621,5.98,floating,BBB
+LN-100398,Energy,North America,10028810.23,0.00398,0.2549,3.2,fixed,BBB
+LN-100399,Energy,APAC,7637930.91,0.00414,0.537,2.86,floating,BBB
+LN-100400,Energy,EMEA,84646.54,0.00457,0.6207,2.11,fixed,BBB
+LN-100401,Transportation,North America,1398369.66,0.0375,0.3952,2.76,floating,B
+LN-100402,Retail & Consumer,North America,1654292.31,0.01154,0.4622,1.99,fixed,BB
+LN-100403,Manufacturing,APAC,288569.6,0.00125,0.2091,4.72,fixed,A
+LN-100404,Retail & Consumer,North America,2199193.73,0.1252,0.482,2.46,floating,CCC
+LN-100405,Commercial Real Estate,APAC,7831256.67,0.0534,0.3224,1.79,floating,B
+LN-100406,Manufacturing,EMEA,600054.25,0.00374,0.474,5.65,floating,BBB
+LN-100407,Energy,APAC,2870627.01,0.02811,0.2627,1.31,fixed,B
+LN-100408,Financial Institutions,LATAM,724034.39,0.00112,0.5151,3.23,fixed,A
+LN-100409,Commercial Real Estate,EMEA,946850.77,0.10501,0.5729,0.45,floating,CCC
+LN-100410,Retail & Consumer,APAC,10070621.67,0.01283,0.356,0.88,fixed,BB
+LN-100411,Financial Institutions,APAC,1091634.2,0.01314,0.3136,2.26,fixed,BB
+LN-100412,Financial Institutions,APAC,3296703.99,0.0006,0.1913,1.97,floating,AA
+LN-100413,Technology,APAC,253130.41,0.0429,0.418,1.96,fixed,B
+LN-100414,Energy,APAC,15379550.84,0.00023,0.3802,5.04,floating,AAA
+LN-100415,Manufacturing,EMEA,3847436.69,0.00135,0.2639,5.24,fixed,A
+LN-100416,Energy,North America,16757778.46,0.00131,0.5044,13.45,floating,A
+LN-100417,Healthcare,APAC,3734412.85,0.01501,0.396,1.25,floating,BB
+LN-100418,Manufacturing,North America,420499.52,0.00115,0.3209,2.74,floating,A
+LN-100419,Healthcare,APAC,7281036.71,0.04763,0.3835,9.48,floating,B
+LN-100420,Healthcare,LATAM,1388336.39,0.01422,0.5786,12.43,fixed,BB
+LN-100421,Transportation,APAC,1584094.54,0.00059,0.5224,5.68,floating,AA
+LN-100422,Manufacturing,EMEA,1154501.06,0.00025,0.4344,1.3,floating,AAA
+LN-100423,Transportation,EMEA,1046836.65,0.00054,0.5243,2.76,floating,AA
+LN-100424,Retail & Consumer,APAC,4257265.76,0.01833,0.3107,3.52,floating,BB
+LN-100425,Healthcare,APAC,2627379.54,0.04348,0.4539,3.15,floating,B
+LN-100426,Healthcare,North America,4060931.57,0.00121,0.4677,6.08,floating,A
+LN-100427,Financial Institutions,EMEA,1963670.22,0.04547,0.3936,4.89,floating,B
+LN-100428,Retail & Consumer,North America,3486886.56,0.0005,0.5023,1.23,fixed,AA
+LN-100429,Financial Institutions,EMEA,1250765.57,0.03993,0.3563,1.82,fixed,B
+LN-100430,Manufacturing,EMEA,23039139.05,0.04768,0.5112,5.67,floating,B
+LN-100431,Retail & Consumer,EMEA,353371.98,0.01517,0.5162,7.33,fixed,BB
+LN-100432,Retail & Consumer,North America,7936881.96,0.01269,0.1,3.55,floating,BB
+LN-100433,Healthcare,North America,8927957.43,0.05166,0.5928,7.92,floating,B
+LN-100434,Technology,EMEA,776556.99,0.0007,0.1,3.27,fixed,AA
+LN-100435,Commercial Real Estate,APAC,15623692.97,0.00182,0.3761,14.52,floating,A
+LN-100436,Financial Institutions,EMEA,5927062.65,0.00162,0.573,4.59,floating,A
+LN-100437,Financial Institutions,APAC,5770405.47,0.00482,0.4119,15.0,floating,BBB
+LN-100438,Commercial Real Estate,APAC,2044828.35,0.01005,0.2741,0.99,fixed,BB
+LN-100439,Transportation,EMEA,1561334.13,0.01333,0.3188,7.73,floating,BB
+LN-100440,Healthcare,APAC,16690500.19,0.03915,0.5732,10.21,floating,B
+LN-100441,Commercial Real Estate,APAC,3046742.84,0.00153,0.2194,1.74,floating,A
+LN-100442,Retail & Consumer,APAC,9260836.18,0.0128,0.5855,0.46,fixed,BB
+LN-100443,Financial Institutions,North America,2420405.48,0.00146,0.4434,0.28,floating,A
+LN-100444,Manufacturing,EMEA,727531.09,0.00513,0.3069,1.96,floating,BBB
+LN-100445,Transportation,APAC,4910418.69,0.01364,0.38,3.94,floating,BB
+LN-100446,Retail & Consumer,APAC,5461673.6,0.12745,0.3279,5.4,fixed,CCC
+LN-100447,Energy,North America,4073957.65,0.01351,0.5539,6.24,floating,BB
+LN-100448,Manufacturing,LATAM,4502074.27,0.00061,0.5379,3.7,floating,AA
+LN-100449,Technology,APAC,1471774.03,0.01401,0.2437,3.31,fixed,BB
+LN-100450,Healthcare,LATAM,713624.3,0.00064,0.4016,2.32,floating,AA
+LN-100451,Transportation,EMEA,762980.1,0.05287,0.3464,4.01,floating,B
+LN-100452,Energy,APAC,328072.67,0.01746,0.6052,1.76,floating,BB
+LN-100453,Transportation,EMEA,2573155.37,0.00157,0.288,1.05,floating,A
+LN-100454,Technology,EMEA,1808858.13,0.00065,0.6425,3.16,floating,AA
+LN-100455,Energy,North America,1222017.24,0.00124,0.446,5.13,floating,A
+LN-100456,Transportation,North America,76789.2,0.11842,0.3106,0.85,floating,CCC
+LN-100457,Manufacturing,EMEA,502801.52,0.00456,0.3687,1.96,fixed,BBB
+LN-100458,Technology,EMEA,6803343.34,0.01582,0.3538,3.08,fixed,BB
+LN-100459,Healthcare,EMEA,954469.91,0.01444,0.297,3.03,floating,BB
+LN-100460,Commercial Real Estate,LATAM,2948039.25,0.01586,0.4614,4.34,fixed,BB
+LN-100461,Energy,North America,429443.74,0.00161,0.3027,9.31,floating,A
+LN-100462,Healthcare,EMEA,9651037.98,0.0531,0.1884,0.28,fixed,B
+LN-100463,Manufacturing,EMEA,1692250.02,0.00417,0.4044,9.57,fixed,BBB
+LN-100464,Commercial Real Estate,APAC,2727904.9,0.01325,0.2337,9.04,fixed,BB
+LN-100465,Commercial Real Estate,APAC,25606525.29,0.01471,0.3597,5.46,fixed,BB
+LN-100466,Financial Institutions,North America,10512589.64,0.00785,0.3409,3.5,fixed,BB
+LN-100467,Energy,EMEA,1415194.9,0.04758,0.3455,1.79,fixed,B
+LN-100468,Commercial Real Estate,APAC,1032463.03,0.00075,0.6901,5.41,floating,A
+LN-100469,Technology,EMEA,1385955.69,0.00297,0.4568,3.63,fixed,BBB
+LN-100470,Commercial Real Estate,APAC,3474246.13,0.00427,0.4794,2.36,fixed,BBB
+LN-100471,Healthcare,North America,1766045.55,0.00429,0.2368,5.32,fixed,BBB
+LN-100472,Technology,North America,1283667.07,0.00124,0.3715,5.94,fixed,A
+LN-100473,Healthcare,APAC,9958125.17,0.00134,0.4758,7.3,fixed,A
+LN-100474,Retail & Consumer,EMEA,1748675.35,0.00482,0.3271,1.63,floating,BBB
+LN-100475,Financial Institutions,APAC,24879332.64,0.00371,0.559,6.69,floating,BBB
+LN-100476,Healthcare,LATAM,2190886.51,0.00535,0.3057,2.39,fixed,BBB
+LN-100477,Retail & Consumer,APAC,14130557.85,0.014,0.4156,3.51,floating,BB
+LN-100478,Commercial Real Estate,LATAM,2937446.91,0.01486,0.3797,4.01,fixed,BB
+LN-100479,Energy,North America,20122444.19,0.00497,0.4697,6.34,fixed,BBB
+LN-100480,Energy,APAC,893523.44,0.00408,0.3731,4.96,floating,BBB
+LN-100481,Commercial Real Estate,APAC,775191.1,0.00127,0.4175,2.33,fixed,A
+LN-100482,Manufacturing,APAC,3287626.88,0.01377,0.4217,0.33,floating,BB
+LN-100483,Energy,North America,5882006.87,0.00398,0.3619,4.3,fixed,BBB
+LN-100484,Commercial Real Estate,EMEA,2072533.13,0.00048,0.5082,3.41,fixed,AA
+LN-100485,Energy,North America,44787094.49,0.00385,0.4786,0.98,fixed,BBB
+LN-100486,Technology,North America,444060.37,0.00355,0.4394,3.7,fixed,BBB
+LN-100487,Energy,North America,412565.38,0.00171,0.3983,3.05,floating,A
+LN-100488,Manufacturing,North America,283683.85,0.01407,0.5456,7.25,fixed,BB
+LN-100489,Commercial Real Estate,EMEA,2236525.03,0.01341,0.4217,9.99,floating,BB
+LN-100490,Commercial Real Estate,North America,6834872.09,0.01378,0.4132,5.84,floating,BB
+LN-100491,Energy,EMEA,1953713.8,0.01447,0.4626,2.92,floating,BB
+LN-100492,Retail & Consumer,LATAM,164974.1,0.0153,0.6536,3.25,fixed,BB
+LN-100493,Healthcare,North America,1607456.21,0.0034,0.2892,1.58,fixed,BBB
+LN-100494,Financial Institutions,APAC,1657665.93,0.01181,0.5424,1.84,fixed,BB
+LN-100495,Healthcare,APAC,19887433.85,0.00466,0.2228,2.79,floating,BBB
+LN-100496,Technology,North America,399172.25,0.00375,0.4761,2.58,fixed,BBB
+LN-100497,Transportation,APAC,1290131.41,0.01102,0.639,0.93,floating,BB
+LN-100498,Manufacturing,LATAM,12947819.44,0.00427,0.5086,7.3,floating,BBB
+LN-100499,Financial Institutions,North America,3252635.59,0.00428,0.4705,7.97,fixed,BBB
