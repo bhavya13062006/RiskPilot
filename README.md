@@ -135,5 +135,5 @@ documented schema.
 
 ## Tech stack
 
-Python · LangGraph · LangChain (Anthropic / OpenAI) · pandas · NumPy ·
+Python · LangGraph · LangChain · pandas · NumPy ·
 Streamlit · pytest
