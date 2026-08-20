@@ -61,8 +61,7 @@ pandas/numpy), and are unit-tested independently of the agent/LLM layer.
 
 ## LLM-backed summarization, with graceful fallback
 
-The `summarize` node uses an LLM (Claude via `langchain-anthropic`, or GPT via
-`langchain-openai` — configurable) to turn the computed metrics and flags into
+The `summarize` node uses an LLM  to turn the computed metrics and flags into
 a boardroom-ready memo. If no API key is configured, it falls back to a
 deterministic, rule-based memo built from the same data, so **the full
 pipeline always runs end-to-end** — with or without a key. This also makes the
