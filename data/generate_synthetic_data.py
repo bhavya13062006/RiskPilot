@@ -36,7 +36,7 @@ RATING_PD = {
 }
 
 
-def generate_portfolio(n_loans: int = 500, seed: int = 42) -> pd.DataFrame:
+def generate_portfolio(n_loans: int = 2000, seed: int = 42) -> pd.DataFrame:
     rng = np.random.default_rng(seed)
 
     ratings = rng.choice(RATINGS, size=n_loans, p=[0.03, 0.07, 0.15, 0.30, 0.25, 0.15, 0.05])
